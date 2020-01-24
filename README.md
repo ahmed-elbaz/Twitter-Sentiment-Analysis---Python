@@ -13,7 +13,7 @@ The repository includes
 
 1. twitter-2013train.txt, twitter-2014train.txt and twitter-2015train.txt are the files used for training.
 2. test.xlsx file is the test dataset.
-3. Twitter Sentiment Aalysis word report that summarizes the effort done in this competition.
+3. Twitter Sentiment Aalysis pdf report that summarizes the effort done in this competition.
 4. baseline experiment notebook includes the trials to decide which classifier and vectorizer will be the best for our data.
 5. enhancement experiment notebook shows the trials to fine tune our model to achieive the best results.
 6. enhancement experiment with additional data notebook shows the results when we tried to add some additional tweets to enhance model
